@@ -70,12 +70,13 @@ a {
 @media screen and (min-width: 42em) and (max-width: 64em){
   .page-header {
     padding: 6rem 4rem; 
-    height: 45em;} }
+    height: 40em;} }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 5rem 1rem; 
-    height: 45em;} }
+    padding: 4rem 1rem; 
+    height: 20em;
+    background-image: url('../images/head-bg-small.jpg');} }
 
 .project-name {
   margin-top: 0;
